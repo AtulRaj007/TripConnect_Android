@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">TripConnect</string>
+    <string name="str_already_member_log_in">ALREADY A MEMBER? LOG IN</string>
+    <string name="str_sign_up">SIGN UP</string>
+    <string name="str_continue_with_facebook">Continue with Facebook</string>
+    <string name="str_continue_with_google">Continue with Google</string>
+    <string name="str_continue_with_email">Continue with Email</string>
+    <string name="content_facebook_logo">Facebook</string>
+    <string name="content_google_logo">Google</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="str_log_in">LOG IN</string>
+    <string name="content_password_visibility">Password Visibility</string>
+    <string name="str_forgot_password">Forgot Password?</string>
+    <string name="tag_password_visible">Visible</string>
+    <string name="tag_password_not_visible">Not visible</string>
+    <string name="content_add_a_photo">Add a photo</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_mobile_number">Mobile number</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="str_submit">Submit</string>
 </resources>
